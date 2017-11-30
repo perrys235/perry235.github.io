@@ -7,4 +7,4 @@ This is my 360 image
 
 ###Camera Effects
 
-![picture](untitled (3)?raw=true "My Picture")
+![picture](untitled (3).png?raw=true "My Picture")
