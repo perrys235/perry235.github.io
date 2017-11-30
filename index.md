@@ -7,4 +7,4 @@ This is my 360 image
 
 ###Camera Effects
 
-![picture_title](picture filename?raw=true "Optional Title")
+![picture](untitled (3)?raw=true "Optional Title")
