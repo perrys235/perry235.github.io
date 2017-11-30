@@ -7,4 +7,4 @@ This is my 360 image
 
 ###Camera Effects
 
-![filter](techstartFilter.jpg?raw=true "Optional Title")
+![picture_title](picture filename?raw=true "Optional Title")
